@@ -1,0 +1,10 @@
+imgtable 	image,mem_ID
+login 		mem_ID,mem_role,pass,mail
+message 	email,message,m_ID,name,state
+news   		n-date,n-img,n_d,n_h,n_id,n_time
+pwcobamem 	mem_4No,mem_Age,mem_BatchN,mem_club,mem_DBA,mem_eMail,mem_fName,mem_ID,mem_lName,mem_sports,mem_town
+
+
+
+        
+        

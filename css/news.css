@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* css fonts*/   
+@font-face{font-family:"Righteous-Regular";src:url(../fonts/BigShouldersText-Bold.ttf)}
+@font-face{font-family:"title";src:url(../fonts/VarelaRound-Regular.ttf)}
+@font-face{font-family:"wales";src:url(../fonts/SupermercadoOne-Regular.ttf)}
+@font-face{font-family:"dis";src:url(../fonts/Poppins-SemiBold.ttf)}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand{font-family: 'title';}
+
+.navbar-default .navbar-nav > li > a{font-family: 'dis';}
+@media only screen and (max-width: 320px) {
+	 .navbar-brand{font-size: small}
+}
+body {
+    background: 
+    #000;
+}
+.navbar-toggle {
+    padding: 5px 3px;margin-top: 10px;
+}

@@ -1,0 +1,42 @@
+<div class="container">
+	<form enctype="multipart/form-data" action="upload" method="post">
+		
+		<div class="logo_form">
+			<img id="login_pic" class="img-circle" src="uploads/<?php echo $us_img ;?>" />
+		</div>
+        <div class="form-group">
+			<p>First Name:| <?php echo $fn;?></p>
+			<p>Last Name:|  <?php echo $ln;?></p>
+			
+		</div>
+        <div class="form-group">
+			<p>AGE:|  <?php echo $age;?></p>
+			<p>DOB:|  <?php echo $dob;?></p>
+		
+		</div>
+        <div class="form-group">
+			<input type="file" name="fileToUpload" id="fileToUpload"/>
+			<input class="btn btn-primary" type="submit" value="Upload Image" name="submit"/>
+	
+		</div>
+		<a href="#" class="forgot" style="color:rgb(255,255,255);">Forgot your email or password?</a>
+	
+	</form>
+	</div>
+
+{
+    max-width: 320px;
+    width: 90%;
+    background-color: 
+#1e2833;
+padding: 40px;
+border-radius: 4px;
+transform: translate(-50%,-50%);
+position: absolute;
+top: 50%;
+left: 50%;
+color:
+#fff;
+border: medium solid
+    #ffffff;
+}

@@ -1,0 +1,46 @@
+	  <div class="container-fluid">
+		   <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="thumbnail">
+          <img src="images/logo-crest.png" alt="Generic placeholder thumbnail">
+          <div class="caption" >
+            <h3>VISION &amp; MISSION</h3>
+            <p>vision:-“to be a distinctive facilitator in empowering the...
+				mission:-our mission is to effect quality teaching</p>
+            <p align="center"><a href="#" class="btn btn-primary" role="button" data-toggle="modal" data-target="#gridSystemModal">Read More</a> </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="thumbnail">
+          <img src="images/logo-crest.png" alt="Generic placeholder thumbnail">
+          <div class="caption" >
+            <h3>History</h3>
+            <p>By the end of the 19th century, only a few schools in Sri Lanka offered higher education and most of them</p>
+            <p align="center"><a href="#" class="btn btn-primary" role="button" data-toggle="modal" data-target="#gridSystemModal3">Read More</a> </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="thumbnail">
+          <img src="images/logo-crest.png" alt="Generic placeholder thumbnail">
+          <div class="caption" >
+            <h3>FOUNDER</h3>
+            <p>charles henry de Soysa was born on march 3rd 1836.he was the only son of mudliyar jeronis de soysa</p>
+            <p align="center"><a href="#" class="btn btn-primary" role="button" data-toggle="modal" data-target="#gridSystemModal1">Read More</a></p>
+          </div>
+        </div>
+      </div>
+		  <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="thumbnail">
+          <img src="images/logo-crest.png" alt="Generic placeholder thumbnail">
+          <div class="caption" >
+            <h3>CREAST &amp; MOTTO</h3>
+            <p>the mottos
+the original motto of the school was “ICH DIEN”. At the first old boys’ dinner held in 1907, it was </p>
+            <p align="center"><a href="#" class="btn btn-primary" role="button" data-toggle="modal" data-target="#gridSystemModal2">Read More</a></p>
+          </div>
+        </div>
+      </div>	   
+    </div>
+	  </div>
